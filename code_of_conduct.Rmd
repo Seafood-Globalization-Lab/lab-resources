@@ -1,0 +1,32 @@
+---
+title: "Code of conduct"
+output:
+    prettydoc::html_pretty:
+        theme: HPSTR
+        highlight: github
+---
+```{r, echo=FALSE}
+library(prettydoc)
+```
+
+## Zero-tolerance policy
+
+This lab observes a Zero tolerance policy for all forms of bigotry, including but not limited to racist, sexist, anti-Semitic,homophobic, or transphobic ideologies This lab supports and seeks greater inclusion,equity, and justice for all.
+
+## Collaboration
+
+This lab is a space to support each other and the science. Our work draws on the insights of many disciplines and perspectives. We recognize that we will produce better science and be better scientists by valuing everyone's unique contribution to our team. 
+
+## Transparency and communication
+
+Expectations and scientific practices must be open to avoid confusion and frustration. We focus on tools and active approaches to create better science and culture in the lab, including through regular lab and/or one-on-one meetings, email, Slack, and Github. When an issue arises, it will be easiest to resolve it when it is communicated promptly. 
+
+## Scientific integrity 
+
+There is never a reason to manipulate, steal, or hide data or findings. A null result is an important finding, which is celebrated in this lab. 
+
+## Adaptivity
+
+We are all learning how to be better scientists and people. Give yourself permission to fail. That’s how we learn.
+
+*This document was heavily inspired by the Code of Conduct for the [Froehlich Lab](https://github.com/Froehlich-Lab/anti-racism/blob/master/Code%20of%20Conduct/CodeofConduct.pdf). It should be considered a living document that will continue to be updated as the needs of the lab evolve.*

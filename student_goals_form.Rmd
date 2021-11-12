@@ -1,0 +1,49 @@
+---
+title: "Student goals form"
+output: word_document
+---
+
+## Overview
+
+This document serves as a tool for identifying and articulating your goals for your research experience. This is not a contract, so do not worry if your answers evolve over time (that is normal). Instead, use this as an opportunity to reflect on what you would like to accomplish and takeaway from this experience. This document will hopefully help you define your goals and will help me understand how to best guide you. 
+
+## Background
+
+Name:
+
+Year at AU:
+
+Major(s):
+
+Minor(s):
+
+How many hours are you planning to dedicate to research this semester (note that 1 credit hour = 2.5 hours/week per the AU Academic Rules and Regulations)?
+
+## Reflection
+
+What research experience or skills do you feel like you currently have?
+
+What research skills are you looking to gain through this experience?
+
+Describe your process/approach to long-term projects. What have you found to help you be the most successful with longer term projects? 
+
+
+## Goals for this semester
+
+Describe your current research project, including the project goals and the status of the project. If you are just beginning your research, just list the topic and feel free to include any ideas you would like to discuss. 
+
+What do you see as the key steps to completing this project. 
+
+Take your response to the previous question and develop a timeline for this project. 
+
+Using your timeline, focus on the tasks for this semester and explain your task goals in more detail here. 
+
+Beyond the goals related to completing your research project tasks, what other goals for the semester would you like to share with me? Providing your non-research goals can help us think through your research goals to make sure they are realistic given your other priorities. 
+
+## Career goals
+
+What are your goals for after you graduate from AU? If you are unsure, feel free to describe a couple options you have been considering. 
+
+What are your current career goals? If you are unsure, feel free to describe a couple options you have been considering. 
+
+How do you hope for your research experience to contribure to your longer-term goals?
