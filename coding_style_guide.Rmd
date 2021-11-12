@@ -1,13 +1,7 @@
 ---
 title: "Coding style guide"
-output:
-    prettydoc::html_pretty:
-        theme: HPSTR
-        highlight: github
+output: pdf_document
 ---
-```{r, echo=FALSE}
-library(prettydoc)
-```
 
 # R 
 
