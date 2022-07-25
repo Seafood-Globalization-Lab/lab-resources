@@ -1,0 +1,29 @@
+---
+title: "Science writing tips"
+output: pdf_document
+---
+
+Writing is a major part of science. Clearly and accurately communicating your findings to the scientific community and public is central to advancing knowledge on the topic. Beyond this responsibility, writing is an important for refining our ideas. Clear writing can only come from clear thinking. Putting ideas on paper and iterating on those ideas allows us to develop and clarify our ideas over time. 
+
+In this lab, you will receive (at time significant) comments and edits on your writing. Do not take this as a personal judgement, but rather a way for us to work through the ideas together. Additionally, students often receive too little feedback on their writing in classes. This is a missed opportunity to grow as a writer. I hope this is something you will gain through your research experience. 
+
+To help with your writing, here are a few tips based on some of my most common comments: 
+
+* Start by writing out a specific statement of the focus of your paper. This does not have to be the main finding, but instead is often a statement of the key gap or motivation along with the focal question(s).
+* Take your focal statement and backwards plan the main points that lead up to that statement. What is the series of points that will naturally lead the reader to conclude that your focus is needed and important?
+* Each point should form a topic sentence. Those topic sentences must be supported by specific evidence from peer reviewed literature.
+* Supportive evidence should consist of specific findings and examples drawn. The key here is to "show" rather than "tell" the reader. For example, rather than saying "Researchers have found aquaculture to be important to seafood supplies (Smith et al. 2022)," say something like "Aquaculture supplies half of all seafood globally (Smith et al. 2022)."
+* Avoid using direct quotes. It is unlikely that the way the original author phrased a point is the best way to make that point within your paper. Thinking about the main point and rephrasing it to fit within your argument will likely improve the flow.
+* Use figures and tables as supporting evidence, but do not just walk through the figures and tables. Do not say "Figure 1 shows X is true" or "As shown in Figure 1, X is true." Instead say "X is true (Figure 1)." A good test is to look for any instances where you refer to a figure or table outside of parentheses.
+* Be concise and direct. Every time you read your writing try to cut out words. 
+* Use first person and active language. This means rather than saying "The data was collected by..." you should say "We collected the data by..." 
+
+As you work on your writing, know that most people find it difficult and feeling frustrated is common. If you are feeling stuck, try taking a step back and re-mapping your core argument. Sometimes the best thing is just to start putting words on the paper, knowing that it won't be any good the first pass. 
+
+Additionally, here are a few resources you can review for more information:
+
+[Ten Simple (Empirical) Rules for Writing Science](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004205)
+
+[Simple rules for concise scientific writing](https://aslopubs.onlinelibrary.wiley.com/doi/full/10.1002/lol2.10165)
+
+[Writing Science: How to Write Papers That Get Cited and Proposals That Get Funded](https://www.amazon.com/Writing-Science-Papers-Proposals-Funded/dp/0199760241/ref=asc_df_0199760241/?tag=hyprod-20&linkCode=df0&hvadid=312090128349&hvpos=&hvnetw=g&hvrand=13742825100234579585&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9061285&hvtargid=pla-456936056082&psc=1) - I have a copy of this that I would be happy to let anyone borrow. 
